@@ -41,4 +41,7 @@ library(rmarkdown)
 
 raw_data_projects <- readRDS("Projects.rds")
 raw_data_tasks <- readRDS("Tasks.rds")
-   
+
+# write_csv(raw_data_projects, "data_projects_template.csv")
+# write_csv(raw_data_tasks, "data_tasks_template.csv")
+
